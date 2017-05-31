@@ -20,7 +20,6 @@ FROM syntax_practice
 WHERE transactions_attempted > 9;
 
 5.)
-
 SELECT
   username,
   account_balance
